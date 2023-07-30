@@ -125,3 +125,25 @@
     text-decoration-line: underline;
     margin-top: 15px;
 }
+
+.customer-service {
+    padding-top: 180px;
+    padding-left: 180px;
+    padding-right: 180px;
+}
+
+.customer-service-container {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.customer-service-img {
+    width: 70px;
+    height: 70px;
+}
+.c-s{
+    padding: 50px 10px 20px 10px;
+}
