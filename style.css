@@ -46,3 +46,82 @@
     border-style: none;
     cursor: pointer;
 }
+
+.featured-flowers {
+    text-align: center;
+    padding-top: 110px;
+    text-align: center;
+
+
+}
+
+.featured-flowers-title {
+    color: black;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.flowers-container {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-top: 60px;
+
+}
+
+.flowers-container-img {
+    margin-top: 80px;
+    width: 210px;
+    height: 300px;
+
+
+}
+
+.pink-rose {
+    text-align: center;
+    width: 300px;
+    height: 380px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.bouquet-one {
+    text-align: center;
+    width: 300px;
+    height: 380px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.yellow-rose {
+    text-align: center;
+    width: 300px;
+    height: 380px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+.bouquet-one-center {
+    margin-top: 80px;
+    width: 210px;
+    height: 250px;
+}
+
+#bouquet-p {
+    margin-top: 65px;
+}
+
+.flowers-container-p {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration-line: underline;
+    margin-top: 15px;
+}
