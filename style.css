@@ -197,5 +197,66 @@
 .social-media-img {
     width: 220px;
     height: 250px;
+}
 
+.deals {
+    padding-top: 120px;
+    padding-left: 180px;
+    padding-right: 180px;
+    text-align: center;
+
+    /* background-image: url("./Flower Asset/Rectangle\ 9.png" ); */
+
+}
+
+.deals-btn-container {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 260px;
+    padding-right: 300px;
+    gap: 20px;
+}
+
+.deals-container {
+    background-image: url("./Flower Asset/Rectangle\ 9.png");
+    background-size: 100% 100%S;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 60px;
+    padding-top: 10px;
+}
+
+.deals-title {
+    padding-top: 120px;
+    padding-bottom: 10px;
+}
+
+.input {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: left;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 10px;
+    background: #FFF;
+    width: 500px;
+    height: 40px;
+    flex-shrink: 0;
+    border-style: none;
+}
+
+
+.deals-btn {
+
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    width: 150px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #E55473;
+    border-style: none;
+    color: white;
+    cursor: pointer;
 }
