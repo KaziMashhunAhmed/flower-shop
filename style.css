@@ -144,6 +144,39 @@
     width: 70px;
     height: 70px;
 }
-.c-s{
+
+.c-s {
     padding: 50px 10px 20px 10px;
+}
+
+.hot-deal {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+
+    margin-top: 150px;
+}
+
+.hot-deal-container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+
+}
+
+.hot-deal-img {
+    width: 300px;
+    height: 350px;
+
+}
+
+.hot-deal-title {
+    color: black;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+#off{
+    color: #E55473;
 }
