@@ -177,6 +177,25 @@
     font-weight: 800;
     margin-bottom: 20px;
 }
-#off{
+
+#off {
     color: #E55473;
+}
+
+.social-media {
+    text-align: center;
+    padding-top: 120px;
+    padding-left: 180px;
+    padding-right: 180px;
+}
+
+.social-media-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.social-media-img {
+    width: 220px;
+    height: 250px;
+
 }
